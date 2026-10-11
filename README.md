@@ -14,7 +14,7 @@ I build machine learning systems that go beyond the notebook: anomaly detection,
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | **Student Login Anomaly Detection** | Scores every login attempt with Isolation Forest and delays or blocks risky ones in real time | Python, Flask, MySQL, React, scikit-learn | [Code](https://github.com/Rahmahf074/deteksi-anomali-login-mahasiswa) |
-| **LearnMatch** | AI-powered course recommendation system for upskilling (team project, I was ML + frontend lead) | Python, Flask, React, ML | [Code](https://github.com/SatriaDwiCahyaa/LearnMatch-AI-Powered-Course-Recommendation-System-for-Upskilling) · [Live demo](https://learnmatch-web.vercel.app/) |
+| **LearnMatch** | AI-powered course recommendation system for upskilling (team project, I led the ML and frontend workstreams and built most of both myself)  | Python, Flask, React, ML | [Code](https://github.com/SatriaDwiCahyaa/LearnMatch-AI-Powered-Course-Recommendation-System-for-Upskilling) · [Live demo](https://learnmatch-web.vercel.app/) |
 | **News & Info Chatbot (RAG)** | 3-tier response gate + TF-IDF retrieval + Llama 3.3 generation, live in production | FastAPI, MySQL, Groq, React | [Live site](https://bincangperempuan.com/) (chat widget at the bottom corner) |
 
 ## :hammer_and_wrench: Tech Stack
