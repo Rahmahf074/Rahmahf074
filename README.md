@@ -6,7 +6,7 @@ I build machine learning systems that go beyond the notebook: anomaly detection,
 ## :wrench: What I Build
 
 - **Security-oriented ML**: login anomaly detection with Isolation Forest, wired into a real authentication flow
-- **RAG chatbots**: retrieval + LLM pipelines (FastAPI, Groq/Llama) deployed on a live media website
+- **RAG chatbots**: retrieval + LLM pipelines (FastAPI, Groq/gpt-oss-120b) deployed on a live media website
 - **Recommendation systems**: course recommendation with a full-stack admin dashboard
 
 ## :rocket: Featured Projects
