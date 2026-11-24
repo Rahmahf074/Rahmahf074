@@ -26,6 +26,7 @@ I build machine learning systems and full-stack web apps that go beyond the note
 |---|---|---|---|
 | **Rivaro Shoes** | Online shoe store with cart, checkout, order history, live chat with admin, and an admin dashboard (team project, I was team lead) | PHP, MySQL | [Code](https://github.com/Rahmahf074/toko-sepatu-online-php) · [Live demo](https://rivaro-shoes.freehosting.dev/sepatu_online/index.php) |
 | **Rumah Makan Padang** | Responsive restaurant website with menu cards, gallery, testimonials, and contact form (team project, I was team lead) | React.js | [Code](https://github.com/Rahmahf074/rumah-makan-padang-react) · [Live demo](https://rahmahf074.github.io/rumah-makan-padang-react/) |
+| **Kota Bengkulu Profile** | Informative static city profile website showcasing Bengkulu's history, geography, popular tourist attractions, and traditional cuisine | HTML5, CSS3 | [Code](https://github.com/Rahmahf074/Website_Bengkulu_R_2025) · [Live demo](https://rahmahf074.github.io/Website_Bengkulu_R_2025/) |
 
 ## :hammer_and_wrench: Tech Stack
 
